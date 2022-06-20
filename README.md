@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Woo-Seungwoo
+- 👀 I’m interested in Finance, Economics, Analystics, M&A, IPO, Invest
+- 🌱 I’m currently learning Python, Finance Knowledge
+- 💞️ I’m looking to collaborate on Hackerton
+- 📫 How to reach me ...
