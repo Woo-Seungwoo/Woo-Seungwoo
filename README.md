@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Woo
-![](banner2.jpeg)
+![](AI 배경2.jpeg)
 
 For the future DigitalAI + Finance
 
