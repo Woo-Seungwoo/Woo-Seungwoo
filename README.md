@@ -24,9 +24,7 @@ Skills: Python / ML / DL / INSIGHTS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wsw1120)  
 
-![GitHub metrics](https://metrics.lecoq.io/wsw1120)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wsw1120)  
 
 
 
