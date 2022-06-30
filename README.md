@@ -6,7 +6,7 @@ For the future DigitalAI + Finance
 
 Skills: Python / ML / DL / INSIGHTS
 
-- 🔭 I’m currently working on Data Analyst, Fintech Service   
+- 🔭 I’m currently working on Data Analyst, Fintech Service, Economics   
 - 🌱 I’m currently learning Python, ML, DL, Finance Knowledge  
 - 👯 I’m looking to collaborate on Hackerthon  
 - 🤔 I’m looking for help with Frontend, Backend, AI, Quant 
